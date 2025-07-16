@@ -12,9 +12,9 @@ This is a modular, agent-driven Streamlit application that fetches and visualize
 
 ## 🧱 Project Structure
 
-├── app.py # Streamlit frontend
-├── agents.py # Agent functions (weather fetch, chart gen, coordinator)
-├── utils.py # Utilities for fetching data & generating charts
+- ├── app.py # Streamlit frontend
+- ├── agents.py # Agent functions (weather fetch, chart gen, coordinator)
+- ├── utils.py # Utilities for fetching data & generating charts
 
 
 ## 🖥️ How It Works
